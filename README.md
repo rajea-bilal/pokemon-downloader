@@ -2,19 +2,22 @@
 
 # A Pokemon Downloader Command Line Application (CLI) in JavaScript.
 
+
 ## Functionality
+
 - The application prompts the user for a Pokemon to search from the pokeapi.co
 - Asks the user if they want to download the stats, sprites or offical artwork for the requested Pokemon
 - Once the user has submitted their preferences, all the information is saved to the computer locally
 
-## Implemented
+## Implemented Concepts
+
 - Promises
 - Async/await
 - Modules
 - Npm package
 - Functions
 
-## Lessons Learned:
+## Lessons
 
 - Its okay to feel a little overwhelmed at the start of a challenging project. I turned this overwhelm into curosity by digging into docs, code examples and tutorials to make myself familiar with the concept and functionality of the code I was using.
 - I realised that by keeping at the project, I was eventually able to make breakthroughs. 
