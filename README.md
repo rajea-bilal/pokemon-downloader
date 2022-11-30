@@ -12,7 +12,7 @@
 
 ## Implemented Concepts
 
-- Promises
+- Fetch API
 - Async/await
 - Modules
 - Npm package
