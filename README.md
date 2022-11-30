@@ -28,7 +28,7 @@
 
 ## App in Action
 
-<img src="https://media.giphy.com/media/yNeCbIQxTtPmBYSH1Z/giphy.gif" widtht="600" alt="project example"/> </a>
+<img src="https://media.giphy.com/media/yNeCbIQxTtPmBYSH1Z/giphy.gif" width="600" alt="project example"/> </a>
 
 
 <img width="600" alt="Screenshot 2022-11-29 at 15 10 35" src="https://user-images.githubusercontent.com/93056794/204784943-ca6b3685-d7a1-471c-87ac-4e8bcf56de5a.png">
