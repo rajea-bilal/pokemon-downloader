@@ -5,7 +5,7 @@
 
 ## Functionality
 
--  <img src="https://img.shields.io/badge/-Inquirer Package -526948?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px" /> used in the app to ask questions/validate answers in the command line
+-  <img src="https://img.shields.io/badge/-Inquirer Package -526948?style=for-the-badge&?logoWidth=50" alt="Email" /> used in the app to ask questions/validate answers in the command line
 - The application prompts the user for a Pokemon to search from the pokeapi.co
 - Asks the user if they want to download the stats, sprites or offical artwork for the requested Pokemon
 - Once the user has submitted their preferences, all the information is saved to the computer locally
