@@ -26,3 +26,14 @@
 - I implemented quite a few functions in this app and it was alot of fun connecting them together to power this app.
 - The joy of building something from scratch and bringing it to life was priceless for me :)
 
+## App in Action
+
+https://media.giphy.com/media/yNeCbIQxTtPmBYSH1Z/giphy.gif
+
+<img width="857" alt="Screenshot 2022-11-29 at 15 10 35" src="https://user-images.githubusercontent.com/93056794/204784943-ca6b3685-d7a1-471c-87ac-4e8bcf56de5a.png">
+
+
+<img width="1040" alt="Screenshot 2022-11-29 at 15 10 23" src="https://user-images.githubusercontent.com/93056794/204785003-4fcf89c5-8310-4a6a-b8af-faee31ed15db.png">
+
+
+<img width="996" alt="Screenshot 2022-11-29 at 15 10 48" src="https://user-images.githubusercontent.com/93056794/204785031-8cae555c-5eef-4f95-b416-bf0d6757442a.png">
